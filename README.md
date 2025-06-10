@@ -1,6 +1,6 @@
 # README
 
-* ODIN KITTENS 
+ODIN KITTENS 
 
 This is a simple Rails application for managing kittens, build as part of [The Odin Proejct]
 
